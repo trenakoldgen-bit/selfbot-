@@ -1,0 +1,97 @@
+// ============================================================
+//   CONFIG - EDIT ALL YOUR MESSAGES HERE
+//   Do NOT touch index.js - only edit this file!
+// ============================================================
+
+module.exports = {
+
+  // ── MAIN MENU ─────────────────────────────────────────────
+  MESSAGE_WELCOME: `Hello , are you interested in 
+
+- 1 : Buying **permanent** 0F access & see the payment options and price
+- 2 : Get **info** on the 0F creators & get them listed 
+
+> ⚠️ ! Make sure to send one of the two __**numbers**__ to continue `,
+
+  // ── PAYMENT MENU (shown after choosing 1) ─────────────────
+  MESSAGE_PAYMENT_MENU: `If you're interested in buying **permanent** access: 
+
+- **ALL** our payment options ( for you to choose) 
+
+> 1. PayPal
+> 2. Crypto
+> 3. Robux
+
+- for only the **PRICE** of 
+> __**6,80**__ 💸 
+> __**800**__ robux (due to roblox taxing fees)
+
+> ⚠️ ! Make sure to send one of the three __**numbers**__ to continue `,
+
+  // ── OPTION 2 (info, then redirects to option 1) ───────────
+  MESSAGE_OPTION_2: `For all the **info** on our 0F creators we have :
+
+- **OVER 185+** for you to enjoy & pleasure yourself with forever listed right under this [video](https://media.discordapp.net/attachments/1550262089040265216/1554136057703043172/lv_0_20260928162005.mp4?ex=6abbc97e&is=6aba77fe&hm=38a38b292b57c3863e89ba34cb70025e56117376f6a1c6f10e768c4953b108c9&).
+
+> ⚠️ ! Make sure to send __**1**__ to continue with the payment !`,
+
+  // ── PAYPAL ────────────────────────────────────────────────
+  MESSAGE_PAYPAL: `To proceed to buy **YOUR** permanent access today *!*
+
+- __PayPal Information__
+
+📧 **Email**
+
+> \`lollsadettes03@gmail.com\`
+
+- __IMPORTANT__
+Send as **Friends & Family — no notes**.
+If not sent as requested, no refunds will be provided.
+
+> ⚠️ ! Make sure to send  ' __**finished transaction**__ ' after sending the money along with the **proof of payment** 
+-# ( screenshot of the money being sent , ss of the transaction)
+**--**
+to use other payment options either send 2 ( crypto info ) or 3 ( Robux info ) ! `,
+
+  // ── CRYPTO ────────────────────────────────────────────────
+  MESSAGE_CRYPTO: `To proceed to buy **YOUR** permanent access today *!*
+
+- __Crypto  Information__
+
+📧 **LTC Adress**
+
+> \`LfXyPCq5zEEtTLTCnKiZoHiRyyq2qT5Z3Z\`
+
+> ⚠️ ! Make sure to send  ' __**finished transaction**__ ' after sending the money along with the **proof of payment** 
+-# ( screenshot of the money being sent , ss of the transaction)
+**--**
+> and to use other payment options either send 1 ( PayPal info ) or 3 ( Robux info ) !`,
+
+  // ── ROBUX ─────────────────────────────────────────────────
+  MESSAGE_ROBUX: `To proceed to buy **YOUR** permanent access today *!*
+
+- __Robux  Information__
+
+📧 **Gamepass**
+
+> [gamepass](https://www.roblox.com/game-pass/821416308/0F-4CC3SS)
+🚨 ** IF THE GAMEPASS ABOVE SHOWS AS UNAVAILABLE YOU MUST VERIFY YOUR AGE GROUP OR TRY OTHER PAYMENT OPTIONS! **
+
+> ⚠️ ! Make sure to send  ' __**finished transaction**__ ' after sending the money along with the **proof of payment** 
+-# ( screenshot of the money being sent , ss of the transaction)
+**--**
+> and to use other payment options either send 1 ( PayPal info ) or 2 ( Crypto info ) !`,
+
+  // ── PROOF REQUEST ─────────────────────────────────────────
+  MESSAGE_PROOF: `**MAKE SURE TO SEND PROOF OF THE PAYMENT __TWICE__ <-- !**
+- ( Right below this message. Proof will be reviewed to check its authentication by staff )
+
+> **Be patient**, the vault will be sent within 8-14 hours ⌚ *!*`,
+
+  // ── APPROVED ──────────────────────────────────────────────
+  MESSAGE_APPROVED: `🎉 Payment approved! Here is your invite to the vaulted server:`,
+
+  // ── DECLINED ──────────────────────────────────────────────
+  MESSAGE_DECLINED: `❌ Payment not approved. If the payment is outdated renew it.The vault has been upgraded.`,
+
+};
